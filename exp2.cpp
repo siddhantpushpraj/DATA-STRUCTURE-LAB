@@ -7,7 +7,7 @@
 using namespace std;
 class lsearch
 {                 
-int a[10],limit,item,n,flag;
+int a[60],limit,item,n,flag;
 public:
 	int i;
 void read()
